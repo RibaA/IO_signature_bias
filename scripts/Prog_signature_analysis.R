@@ -13,7 +13,7 @@ library(MultiAssayExperiment)
 ##################################################################
 
 url <- "https://raw.githubusercontent.com/bhklab/SignatureSets/main/data-raw/signature_information.csv"
-dir <- "data/pan-sex"
+dir <- "data/male"
 dir_signature <- "data/SignatureSets"
 dir_output <- "result"
 
@@ -214,7 +214,7 @@ for(j in 1:length(dat)){
     
   }
   
-  save(geneSig.score, file=file.path(dir_output, "pan-sex/sig", paste(study.icb , "sig_score.rda", sep = "_")))
+  save(geneSig.score, file=file.path(dir_output, "male/sig", paste(study.icb , "sig_score.rda", sep = "_")))
   
 }
 
