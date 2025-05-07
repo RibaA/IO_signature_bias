@@ -23,11 +23,11 @@ Resources:
 📁 Repository Structure
 
 IO_signature_bias/
-├── data/         – Selected and curated IO signatures and datasets
-├── result/       – Analysis results and outputs
-├── scripts/      – Workflows, processing scripts, and usage examples
-├── env.yml       – Environment specification for reproducibility
-└── README.md     – Project overview and setup instructions
+├── 📁data/         – Selected and curated IO signatures and datasets
+├── 📁result/       – Analysis results and outputs
+├── 📁scripts/      – Workflows, processing scripts, and usage examples
+├── 📄env.yml       – Environment specification for reproducibility
+└── 📄README.md     – Project overview and setup instructions
 
 📝 Citation
 If you use PredictioR or its datasets in your work, please cite the following papers:
