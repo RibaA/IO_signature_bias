@@ -12,7 +12,7 @@ Assess how these biases influence IO therapy response
 
 Enable reproducible analysis using curated datasets and gene signatures
 
-Resources:
+## Resources:
 
 🧬 IO Data: Clinical and molecular profiles – available at [ORCESTRA](https://www.orcestra.ca/clinical_icb)
 
@@ -20,7 +20,7 @@ Resources:
 
 🔧 PredictioR Package: The latest version of [PredictioR](https://github.com/bhklab/PredictioR) is available in the PredictioR GitHub repository.
 
-📁 Repository Structure
+## 📁 Repository Structure
 
 ```plaintext
 
@@ -33,7 +33,7 @@ IO_signature_bias/
 
 ```
 
-📝 Citation
+## 📝 Citation
 If you use PredictioR or its datasets in your work, please cite the following papers:
 
 Bareche, Y., Kelly, D., Abbas-Aghababazadeh, F. et al., Annals of Oncology 2022
