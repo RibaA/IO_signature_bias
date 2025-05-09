@@ -33,12 +33,5 @@ IO_signature_bias/
 
 ```
 
-## 📝 Citation
-If you use PredictioR or its datasets in your work, please cite the following papers:
-
-Bareche, Y., Kelly, D., Abbas-Aghababazadeh, F. et al., Annals of Oncology 2022
-
-Mammoliti, Anthony, et al., Nature communications, 2021
-
 Version Information
 📌 This is version: TBD, corresponding to the release used in the paper.
