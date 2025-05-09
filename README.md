@@ -6,11 +6,11 @@ This repository supports a comprehensive analysis of bias in published immune-on
 🔍 Overview
 IO_signature_bias aims to:
 
-Evaluate demographic bias (e.g., sex, age) in IO gene signatures
+- Evaluate demographic bias (e.g., sex, age) in IO gene signatures
 
-Assess how these biases influence IO therapy response
+- Assess how these biases influence IO therapy response
 
-Enable reproducible analysis using curated datasets and gene signatures
+- Enable reproducible analysis using curated datasets and gene signatures
 
 ## Resources:
 
